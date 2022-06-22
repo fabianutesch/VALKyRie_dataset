@@ -1,4 +1,4 @@
-# VALKyRie_dataset
+# VALKyRie dataset
 This is supplementary material to a conference article. For details see "Effects of visualisation quality on the sense of presence in a pedestrian simulator" for the ICHVR2022 (abstract submitted) https://www.ichvr.org/
 
 ## License
@@ -13,12 +13,12 @@ Michaela Rehm, Fabian Utesch, Kilian Gröne, Eric Nicolay, Johannes Rehm, Rens-R
 Contact: michaela.rehm@dlr.de
 
 ## Author contributions
-Contributions as suggested by the CRediT system (Allen & Kiermer 2019): Michaela Rehm: Conceptualization,
-Methodology, Software, Visualisation, Writing - Original Draft. Fabian Utesch: Project
-administration, Methodology, Investigation, Formal analysis, Writing - Original Draft. Kilian
-Gr ̈one: Software. Eric Nicolay: Software. Johannes Rehm: Resources. Rens-
-Ronal Rosenthal: Investigation. Gerald Temme: Software, Resources. Amit Yadava:
-Investigation. Min Zhao: Formal analysis. Martin Fischer: Supervision, Conceptualization,
+Contributions as suggested by the CRediT system (Allen & Kiermer 2019): **Michaela Rehm**: Conceptualization,
+Methodology, Software, Visualisation, Writing - Original Draft. **Fabian Utesch**: Project
+administration, Methodology, Investigation, Formal analysis, Writing - Original Draft. **Kilian
+Gröne**: Software. **Eric Nicolay**: Software. **Johannes Rehm**: Resources. **Rens-
+Ronal Rosenthal**: Investigation. Gerald Temme: Software, Resources. **Amit Yadava**:
+Investigation. **Min Zhao**: Formal analysis. **Martin Fischer**: Supervision, Conceptualization,
 Writing - Review & Editing, Funding acquisition.
 
 # Data collection
