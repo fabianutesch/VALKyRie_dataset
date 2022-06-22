@@ -1,6 +1,9 @@
 # VALKyRie_dataset
 This is supplementary material to a conference article. For details see "Effects of visualisation quality on the sense of presence in a pedestrian simulator" for the ICHVR2022 (abstract submitted) https://www.ichvr.org/
 
+## License
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ 
+
 # Acknowledgements
 The reported work was conducted based on funding provided by the Helmholtz community.
 
@@ -41,7 +44,7 @@ version 0.16. For details about the interpretation of Bayes Factors see Nuzzo (2
 Error bars in all figures indicate 95% confidence intervals.
 
 ## NOTE
-When ANOVA is run in JASP the results in the .jasp file are likely to slightly differ from the reported numbers in the paper. This is due to the fact that analysis are based on algorithms like Markov chain Monte Carlo (MCMC). The degree of variation is expressed in the error percentage. The higher the error the higher the variation (see Goss-Sampson, 2020).
+When a bayesian ANOVA is run in JASP the results in the .jasp file are likely to slightly differ from the reported numbers in the paper. This is due to the fact that analysis are based on algorithms like Markov chain Monte Carlo (MCMC). The degree of variation is expressed in the error percentage. The higher the error the higher the variation (see Goss-Sampson, 2020).
 
 # References
 
