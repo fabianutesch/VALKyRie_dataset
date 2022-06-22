@@ -17,7 +17,7 @@ Contributions as suggested by the CRediT system (Allen & Kiermer 2019): **Michae
 Methodology, Software, Visualisation, Writing - Original Draft. **Fabian Utesch**: Project
 administration, Methodology, Investigation, Formal analysis, Writing - Original Draft. **Kilian
 Gröne**: Software. **Eric Nicolay**: Software. **Johannes Rehm**: Resources. **Rens-
-Ronal Rosenthal**: Investigation. Gerald Temme: Software, Resources. **Amit Yadava**:
+Ronal Rosenthal**: Investigation. **Gerald Temme**: Software, Resources. **Amit Yadava**:
 Investigation. **Min Zhao**: Formal analysis. **Martin Fischer**: Supervision, Conceptualization,
 Writing - Review & Editing, Funding acquisition.
 
@@ -48,7 +48,7 @@ When a bayesian ANOVA is run in JASP the results in the .jasp file are likely to
 
 # References
 
-Liz Allen, Alison O’Connell, and Veronique Kiermer. How can we ensure visibility and diversity in research contributions? how the contributor role taxonomy (credit) is helping the shift from authorship to contributorship. Learned Publishing, 32(1):71–74, 2019. doi:https://doi.org/10.1002/leap.121
+Liz Allen, Alison O’Connell, and Veronique Kiermer. How can we ensure visibility and diversity in research contributions? how the contributor role taxonomy (credit) is helping the shift from authorship to contributorship. Learned Publishing, 32(1):71–74, 2019. doi:https://doi.org/10.1002/leap.1210
 
 Goss-Sampson, M. A. (2020, May). Bayesian Inference in JASP: A Guide for Students. https://doi.org/10.17605/OSF.IO/CKNXM
 
