@@ -16,7 +16,7 @@ The study was performed at the German Aerospace Center (DLR) in Braunschweig Ger
 Data of 30 who walked as pedestrians in a virtual copy of the Tostmannplatz intersection in Braunschweig Germany (GPS 52.296181, 10.540733). 
 
 # Setup
-Subject used a HTC Vive Pro Eye as VR headset, two Vive Controllers for interaction with the environment and walked on an Omfinity Omnideck 306° treadmill.
+Subject used a HTC Vive Pro Eye as VR headset, two Vive Controllers for interaction with the environment and walked on an Omfinity Omnideck 360° treadmill.
 
 # Procedure
 In two trainings subjects learned to interact with objects and to walk on the treadmill. The training took about 10 minutes for each of the two training maps.
